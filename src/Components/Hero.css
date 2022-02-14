@@ -1,0 +1,30 @@
+
+.hero-img{
+    margin: 30px auto;
+    align-self: center;
+    width: 65%;
+    /* height: auto; */
+}
+
+.hero-section{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+}
+
+.hero-content{
+    padding-left: 100px;
+}
+
+.hero-content-head{
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.hero-content-text{
+    /* font-weight; */
+    font-size: 24px;
+    line-height: 1.4;
+}

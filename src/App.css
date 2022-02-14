@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+/* font-family: 'Roboto', sans-serif; */
+}
+
+.full-body{
+  /* margin: 0; */
+  max-width: 1200px;
+  margin: 0 auto;
+  height: 100vh;
+
+}
